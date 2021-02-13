@@ -32,7 +32,6 @@ function App() {
     geyData();
   }, []);
 
-  console.log(data);
   return (
     <>
       <Card>
